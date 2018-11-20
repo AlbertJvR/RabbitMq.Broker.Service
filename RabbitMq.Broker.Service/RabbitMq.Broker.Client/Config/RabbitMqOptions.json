@@ -1,0 +1,5 @@
+{
+  "RabbitMqOptions": {
+    "Hostname": "localhost"
+  }
+}

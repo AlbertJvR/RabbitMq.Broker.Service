@@ -1,0 +1,6 @@
+{
+  "RabbitMqServiceOptions": {
+    "SubscribeQueueName": "Greeting.Server",
+    "PublishQueueName": "Greeting.Client"
+  }
+}

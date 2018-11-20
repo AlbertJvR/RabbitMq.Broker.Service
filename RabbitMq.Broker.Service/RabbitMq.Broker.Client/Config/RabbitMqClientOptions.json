@@ -1,0 +1,7 @@
+{
+  "RabbitMqClientOptions": {
+    "TimeoutMilliseconds": 2000,
+    "SubscribeQueueName": "Greeting.Client",
+    "PublishQueueName": "Greeting.Server"
+  }
+}

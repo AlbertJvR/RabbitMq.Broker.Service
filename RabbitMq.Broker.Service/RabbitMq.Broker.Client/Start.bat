@@ -1,0 +1,1 @@
+dotnet RabbitMq.Broker.Client.dll
